@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+.List {
+  background-color: #f8f4f4;
+  font-family: 'Lora', serif;
+  padding: 13vmin;
+  padding-top: 18vmin;
+  padding-bottom: 18vmin;
+  margin: 12vmin;
+}
