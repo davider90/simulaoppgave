@@ -1,4 +1,4 @@
-import logo from './logo icon bla╠è.png';
+import logo from './logo icon blaa.png';
 import './App.css';
 import DataList from './DataList';
 
